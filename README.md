@@ -2,7 +2,7 @@
 
 > 🌊 Ocean Protocol technical whitepaper
 
-This repository holds the [technical whitepaper](whitepaper.pdf) for [Ocean Protocol](https://oceanprotocol.com/), which is identical to the document accessible from [oceanprotocol.com/#papers](https://oceanprotocol.com/#papers). 
+This repository holds the [technical whitepaper](whitepaper.pdf) for [Ocean Protocol](https://oceanprotocol.com/), which is identical to the document accessible from [oceanprotocol.com/protocol/#papers](https://oceanprotocol.com/protocol/#papers). 
 
 We treat the technical whitepaper as the vision of what we're building, which can be found in our other repos over time.
 

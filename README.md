@@ -21,3 +21,11 @@ To give feedback, please email [trent@oceanprotocol.com](mailto:trent@oceanproto
 ## Stay in the loop
 
 For the latest updates see our [Website](https://oceanprotocol.com/), [Blog](https://blog.oceanprotocol.com), and follow us on [Twitter](https://twitter.com/oceanprotocol).
+
+## Deployment
+
+Pushing to `master` in this repo will automatically trigger a re-deployment of `oceanprotocol/site`, with a custom webhook calling the Vercel API.
+
+This will make all pdf files in this repo available under `https://oceanprotocol.com/FILENAME.pdf`.
+
+
